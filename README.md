@@ -1,6 +1,7 @@
-# Website Landing Page samples
-
+## Website Landing Page samples
+### Website Landing page1
 ![Landing Page Preview](template29.jpeg)
+### Website Landing page2
 ![Landing Page Preview](template14.jpeg)
 
 ## Description
@@ -41,12 +42,16 @@ This landing page can be used as a template for:
 - Company websites
 - Product promotions
 
-## Screenshots
+## Screenshots of landing page
 
 ### Website landing page Templates 
+### Website Landing page3
 ![landing page Templates](template27.jpeg)
+### Website Landing page4
 ![landing page Templates](template30.jpeg)
+### Website Landing page5
 ![landing page Templates](template26.jpeg)
+### Website Landing page6
 ![landing page Templates](template25.jpeg)
 
 ## Contact
