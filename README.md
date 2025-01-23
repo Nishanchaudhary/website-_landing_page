@@ -1,10 +1,11 @@
-# Website Landing Page
+# Website Landing Page samples
 
-![Landing Page Preview](https://raw.githubusercontent.com/Nishanchaudhary/website-_landing_page/template1.png)
+![Landing Page Preview](template29.jpeg)
+![Landing Page Preview](template14.jpeg)
 
 ## Description
 
-This repository contains a responsive and visually appealing website landing page created using **HTML**, **CSS**, and **JavaScript**. The design is optimized for a modern user experience with smooth animations and a clean layout.
+This repository contains a responsive and visually appealing website landing page . The design is optimized for a modern user experience with smooth animations and a clean layout.
 
 ## Features
 
@@ -18,8 +19,8 @@ This repository contains a responsive and visually appealing website landing pag
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
+
+
 
 ## Installation
 
@@ -42,37 +43,11 @@ This landing page can be used as a template for:
 
 ## Screenshots
 
-### Desktop View
-![Desktop View](template27.jpeg)
-
-### Mobile View
-
-Add another image or GIF here if needed.
-
-## Technologies Used
-
-- **HTML5**: Markup language for structuring the web content.
-- **CSS3**: Styling the layout and design.
-- **JavaScript**: Adding interactivity and animations.
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m 'Add some feature'
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a Pull Request.
+### Website landing page Templates 
+![landing page Templates](template27.jpeg)
+![landing page Templates](template30.jpeg)
+![landing page Templates](template26.jpeg)
+![landing page Templates](template25.jpeg)
 
 ## Contact
 
