@@ -43,7 +43,7 @@ This landing page can be used as a template for:
 ## Screenshots
 
 ### Desktop View
-![Desktop View](https://raw.githubusercontent.com/Nishanchaudhary/website-_landing_page/template16.jpeg)
+![Desktop View](template27.jpeg)
 
 ### Mobile View
 
